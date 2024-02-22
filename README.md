@@ -1,4 +1,4 @@
-# LAB - Class 31/32
+# LAB - Class 31/32/33
 ## Project: Games Project
 ## Author: Kyle Aleman
 ## Links and Resources
